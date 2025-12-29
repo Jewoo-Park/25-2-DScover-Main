@@ -1,4 +1,3 @@
-<img width="2816" height="1536" alt="Gemini_Generated_Image_rvpzfcrvpzfcrvpz (1) (1)" src="https://github.com/user-attachments/assets/cedc0380-bdbd-4e99-b92d-6434df946a12" />
 
 
 # Hallucination Detection via Internal Layer Representations  
@@ -9,6 +8,9 @@ This repository explores the interpretability of Large Language Models (LLMs) by
 ---
 
 ## 📖 Overview
+
+<img width="2816" height="1536" alt="Gemini_Generated_Image_rvpzfcrvpzfcrvpz (1) (1)" src="https://github.com/user-attachments/assets/cedc0380-bdbd-4e99-b92d-6434df946a12" />
+
 
 While LLMs have demonstrated remarkable performance across diverse NLP tasks, **hallucination** remains a critical challenge. Existing detection approaches—such as evaluator LLMs or heuristic filtering—often suffer from:
 
