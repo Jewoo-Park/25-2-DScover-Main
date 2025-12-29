@@ -1,3 +1,6 @@
+<img width="2816" height="1536" alt="Gemini_Generated_Image_rvpzfcrvpzfcrvpz (1) (1)" src="https://github.com/user-attachments/assets/cedc0380-bdbd-4e99-b92d-6434df946a12" />
+
+
 # Hallucination Detection via Internal Layer Representations  
 ### An Empirical Study on LLM Interpretability using Machine Learning Probing
 
